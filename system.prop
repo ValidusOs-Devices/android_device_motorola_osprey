@@ -12,3 +12,6 @@ ro.sf.lcd_density=320
 
 # Device
 ro.product.device=osprey
+
+# Google assistant
+ro.opa.eligible_device=true
