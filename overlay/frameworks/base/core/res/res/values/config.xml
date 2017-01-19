@@ -49,4 +49,7 @@
         <item>15</item>
     </integer-array>
 
+    <!-- Flag indicating whether round icons should be parsed from the application manifest. -->
+    <bool name="config_useRoundIcon">true</bool>
+
 </resources>
